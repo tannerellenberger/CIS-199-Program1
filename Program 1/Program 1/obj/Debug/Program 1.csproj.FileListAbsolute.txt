@@ -1,0 +1,6 @@
+J:\CIS 199\Program 1\Program 1\bin\Debug\Program 1.exe.config
+J:\CIS 199\Program 1\Program 1\bin\Debug\Program 1.exe
+J:\CIS 199\Program 1\Program 1\bin\Debug\Program 1.pdb
+J:\CIS 199\Program 1\Program 1\obj\Debug\Program 1.csprojResolveAssemblyReference.cache
+J:\CIS 199\Program 1\Program 1\obj\Debug\Program 1.exe
+J:\CIS 199\Program 1\Program 1\obj\Debug\Program 1.pdb
